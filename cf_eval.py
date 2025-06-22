@@ -5,7 +5,7 @@ import requests
 st.set_page_config(page_title="Evaluasi Rekomendasi Menu", layout="centered")
 
 # --- Konfigurasi Google Sheets Web App ---
-WEB_APP_URL = "https://script.google.com/macros/s/AKfycbxwPAl0Dy2jfWwwMlJHFSfqlbQ33H_EA9JsGDsd-DcXErf1Pu8RbJUZwKRKIOfwfK0f/exec"
+WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyjVaqwQTFu6vt0yM5zk3Md0cSXD04Fl-izeELBkagbL71cJvBDtHddthw3b7dA3Zy3ng/exec"
 
 # --- Load Data ---
 @st.cache_data
